@@ -22,11 +22,9 @@ als Argument zu übergeben und den Jobsync-Eintrag zu erstellen.
 
 ## Gebrauchsanweisung
 
-1. Skript speichern:
-   Speichere das Skript als _create_employer_jobsync.py_.
+1. Speichere das Skript als _create_employer_jobsync.py_.
 
-2. Als Kommandozeilen-Tool ausführen:
-   Sie können das Skript mit dem Namen des Arbeitgebers als Argument über das Terminal ausführen:
+2. Das Skript mit dem Namen des Arbeitgebers als Argument über das Terminal ausführen:
 
    ```bash
    python create_employer_jobsync.py "Arbeitgeber Name"
